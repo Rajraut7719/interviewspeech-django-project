@@ -1,0 +1,18 @@
+{
+  "basics": {
+    "name": "Mahesh EX2",
+    "location": "Washington",
+    "contact": "9876543210",
+    "email": "mahesh@dskjf.com",
+    "phone": "78945631",
+    "skype_id": "mahesh@dskjf.com",
+    "visa_status": "H1B",
+    "rate": "60",
+    "education": "B Tech SPPU",
+    "experience": "3",
+    "skills": "React,Android,Full Stack",
+    "notice_period": "2 Weeks",
+    "interview_avl": "9am-9pm EST",
+    "candi_score": "25"
+  }
+}
